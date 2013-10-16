@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "main": "index.html",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "less.js": "~1.4.2",
+    "requirejs": "~2.1.8",
+    "jquery": "1.10.2",
+    "underscore": "~1.5.2",
+    "backbone": "~1.0.0",
+    "requirejs-text": "~2.0.10",
+    "json2": "*",
+    "modernizr": "2.6.2",
+    "i18next": "~1.7.1",
+    "requirejs-tpl": "*",
+    "normalize-css": "~2.1.3"
+  }
+}
